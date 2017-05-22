@@ -1,6 +1,6 @@
 FROM alpine:3.5
 
-MAINTAINER Enterprise Platform <enterpriseplatformservices@mitchell.com>
+MAINTAINER Sshantveer
 
 # Installing bash, python3, pip and elasticsearch-curator
 RUN apk add --update \
